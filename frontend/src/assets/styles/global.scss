@@ -1,0 +1,15 @@
+//Components
+@import "./components/navbar.scss";
+
+// Pages
+@import "./pages/github-dorks.scss";
+@import "./pages/google-dorks.scss";
+@import "./pages/dorks.scss";
+@import "./pages/domain-tools.scss";
+
+// Fonts
+@import 'remixicon/fonts/remixicon.css';
+
+.layout {
+    background-color: #F3F3F4;
+}
